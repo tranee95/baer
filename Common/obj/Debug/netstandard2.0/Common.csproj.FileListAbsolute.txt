@@ -1,0 +1,9 @@
+C:\Users\trane\iCloudDrive\Work\baer\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\trane\iCloudDrive\Work\baer\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\trane\iCloudDrive\Work\baer\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\trane\iCloudDrive\Work\baer\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\trane\iCloudDrive\Work\baer\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\trane\iCloudDrive\Work\baer\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\trane\iCloudDrive\Work\baer\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\trane\iCloudDrive\Work\baer\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Users\trane\iCloudDrive\Work\baer\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache

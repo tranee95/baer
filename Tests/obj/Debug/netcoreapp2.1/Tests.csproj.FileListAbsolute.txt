@@ -1,0 +1,15 @@
+C:\Users\trane\iCloudDrive\Work\baer\Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\trane\iCloudDrive\Work\baer\Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\trane\iCloudDrive\Work\baer\Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\trane\iCloudDrive\Work\baer\Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\trane\iCloudDrive\Work\baer\Tests\bin\Debug\netcoreapp2.1\Tests.deps.json
+C:\Users\trane\iCloudDrive\Work\baer\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+C:\Users\trane\iCloudDrive\Work\baer\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+C:\Users\trane\iCloudDrive\Work\baer\Tests\bin\Debug\netcoreapp2.1\Tests.dll
+C:\Users\trane\iCloudDrive\Work\baer\Tests\bin\Debug\netcoreapp2.1\Tests.pdb
+C:\Users\trane\iCloudDrive\Work\baer\Tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+C:\Users\trane\iCloudDrive\Work\baer\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+C:\Users\trane\iCloudDrive\Work\baer\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+C:\Users\trane\iCloudDrive\Work\baer\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+C:\Users\trane\iCloudDrive\Work\baer\Tests\obj\Debug\netcoreapp2.1\Tests.dll
+C:\Users\trane\iCloudDrive\Work\baer\Tests\obj\Debug\netcoreapp2.1\Tests.pdb
